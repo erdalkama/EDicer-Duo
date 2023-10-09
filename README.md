@@ -1,6 +1,7 @@
 # EDicer Duo
 
 This is a simple Swift application that simulates rolling two dice on the iOS platform.
+
 ![EDicer Duo](https://github.com/erdalkama/EDicer-Duo/assets/34250103/082eb333-5cb5-487c-aff9-e5143ebc363c)
 
 ## Project Description
